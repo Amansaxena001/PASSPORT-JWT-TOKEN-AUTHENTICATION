@@ -20,6 +20,8 @@ npm install
 **2.**  The app gets up and running on port 5000 with ```npm run dev```.
 
 **3.**  **Important** Install some dependencies explicitly **npm install --save bcrypt body-parser express jsonwebtoken mongoose passport passport-local passport-jwt**
+
+
 **4.**  **create a account on MongoDb Atlas and create a cluster and copy the 'srv' link to config directory under 'key.js' under MONGOURI: your link**
 
 ## Testing the API routes.
