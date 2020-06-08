@@ -32,10 +32,10 @@ npm install
 **3** Welcome to dashboard.
 
 
-##Amendments to be done:
+## Amendments to be done:
 **1** UNIT TESTING WITH MOCHA
 
-##BUILT WITH
+## BUILT WITH
 **1** Express 
 **2** Bcrypt
 **3** Passport
