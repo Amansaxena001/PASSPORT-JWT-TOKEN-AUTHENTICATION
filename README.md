@@ -30,3 +30,14 @@ npm install
 **2** Login by providing email and password
 
 **3** Welcome to dashboard.
+
+
+##Amendments to be done:
+**1** UNIT TESTING WITH MOCHA
+
+##BUILT WITH
+**1** Express 
+**2** Bcrypt
+**3** Passport
+**4** Jwt
+**5** Ejs
